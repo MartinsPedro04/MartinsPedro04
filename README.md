@@ -1,6 +1,6 @@
 # Olá! Eu sou o Pedro Martins 👋
 
-**Desenvolvedor Mobile | Estudante de T.I. na UFERSA (22 anos)**
+**Desenvolvedor Mobile | Estudante de Tecnologia da Informação na UFERSA (22 anos)**
 
 Admirado por desenvolvimento de aplicativos e focado em criar soluções ágeis e eficientes. Atualmente estou aprimorando minhas habilidades no ecossistema mobile e construindo projetos reais.
 
